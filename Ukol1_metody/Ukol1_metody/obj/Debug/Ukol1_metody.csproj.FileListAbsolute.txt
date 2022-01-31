@@ -1,0 +1,10 @@
+C:\Users\ozone\Desktop\Škola r. 3\PRG\Ukol1_metody\Ukol1_metody\bin\Debug\Ukol1_metody.exe.config
+C:\Users\ozone\Desktop\Škola r. 3\PRG\Ukol1_metody\Ukol1_metody\bin\Debug\Ukol1_metody.exe
+C:\Users\ozone\Desktop\Škola r. 3\PRG\Ukol1_metody\Ukol1_metody\bin\Debug\Ukol1_metody.pdb
+C:\Users\ozone\Desktop\Škola r. 3\PRG\Ukol1_metody\Ukol1_metody\obj\Debug\Ukol1_metody.csproj.AssemblyReference.cache
+C:\Users\ozone\Desktop\Škola r. 3\PRG\Ukol1_metody\Ukol1_metody\obj\Debug\Ukol1_metody.Form1.resources
+C:\Users\ozone\Desktop\Škola r. 3\PRG\Ukol1_metody\Ukol1_metody\obj\Debug\Ukol1_metody.Properties.Resources.resources
+C:\Users\ozone\Desktop\Škola r. 3\PRG\Ukol1_metody\Ukol1_metody\obj\Debug\Ukol1_metody.csproj.GenerateResource.cache
+C:\Users\ozone\Desktop\Škola r. 3\PRG\Ukol1_metody\Ukol1_metody\obj\Debug\Ukol1_metody.csproj.CoreCompileInputs.cache
+C:\Users\ozone\Desktop\Škola r. 3\PRG\Ukol1_metody\Ukol1_metody\obj\Debug\Ukol1_metody.exe
+C:\Users\ozone\Desktop\Škola r. 3\PRG\Ukol1_metody\Ukol1_metody\obj\Debug\Ukol1_metody.pdb
